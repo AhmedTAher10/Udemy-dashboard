@@ -52,7 +52,7 @@ Data Source: Udemy Courses Dataset (kaggle)
 ## interactive Dashboard
 -<a href = "https://github.com/AhmedTAher10/Udemy-dashboard/blob/main/Udemy.pbix">interactive Dashboard</a>
 
-## Dashboard
+## UDEMY
 <img width="1322" height="768" alt="1 cover" src="https://github.com/user-attachments/assets/cf9f4019-052f-4947-98cc-1c3569109552" />
 
 
